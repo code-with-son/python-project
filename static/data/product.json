@@ -1,0 +1,51 @@
+[
+     {
+        "id": 1,
+        "name": "Double Beef Burger",
+        "price": "$200",
+        "image" : "image/Burger.png"
+     },
+
+     {
+        "id": 2,
+        "name": "vaggie Pizza",
+        "price": "299.99",
+        "image": "image/pizza.png"
+     },
+     {
+        "id":3,
+        "name": "Fried chicken",
+        "price": "$250",
+        "image": "image/fried-chicken.png"
+     },
+     {
+        "id":4,
+        "name": "chicken Roll",
+        "price":"$150",
+        "image":"image/chicken-Roll.png"
+     },
+     {
+        "id":5,
+        "name": "sub Sandwich",
+        "price": "$70",
+        "image": "image/Sandwich.png"
+     },
+     {
+        "id":6,
+        "price":"$120",
+        "name":"chicken Lasagna",
+        "image":"image/lasagna.png"
+     },
+     {
+        "id":7,
+        "name": "Itallian Spaghetti",
+        "price":"$150",
+        "image":"image/Spaghetti.png"
+     },
+     {
+       "id":8,
+       "name":"Spring Roll",
+       "price":"$60",
+       "image":"image/Spring-roll.png"
+     }
+]
